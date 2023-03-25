@@ -1,6 +1,7 @@
-# OpenSpritz is now [Glance](http://github.com/Miserlou/Glance)
+# Hi!
 
-[Glance](http://github.com/Miserlou/Glance) is a news network for discerning speedreaders.
+I know this is a fork, but I just dont know how to setup the github pages so i just forked and edited this one :/
 
-Try it out at [http://glance.wtf](http://glance.wtf) or see the [code on Github](http://github.com/Miserlou/Glance).
+I didn't steal any code from glance and idk what it is lol
 
+Enjoy!
